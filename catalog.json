@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mutual Non-Disclosure Agreement",
+    "description": "A standard mutual NDA for two parties to share confidential information with each other under reciprocal confidentiality obligations.",
+    "filename": "Mutual-NDA.md"
+  },
+  {
+    "name": "Mutual NDA Cover Page",
+    "description": "The cover page / order form template to accompany the Mutual NDA, capturing party names, signing details, and key commercial terms.",
+    "filename": "Mutual-NDA-coverpage.md"
+  },
+  {
+    "name": "Cloud Service Agreement",
+    "description": "A standard agreement governing the provision of cloud-hosted software services, including subscription terms, acceptable use, data handling, and support obligations.",
+    "filename": "CSA.md"
+  },
+  {
+    "name": "Design Partner Agreement",
+    "description": "A standard agreement for early-stage design partnerships, allowing a vendor to provide pre-release software to a design partner in exchange for feedback and collaboration.",
+    "filename": "design-partner-agreement.md"
+  },
+  {
+    "name": "Service Level Agreement",
+    "description": "A standard SLA defining uptime commitments, incident response times, and remedies such as service credits for a cloud or software service.",
+    "filename": "sla.md"
+  },
+  {
+    "name": "Professional Services Agreement",
+    "description": "A standard agreement covering the delivery of professional or consulting services, including work orders, deliverables, payment terms, and intellectual property ownership.",
+    "filename": "psa.md"
+  },
+  {
+    "name": "Data Processing Agreement",
+    "description": "A standard DPA governing the processing of personal data by a service provider on behalf of a customer, designed for GDPR and similar regulatory compliance.",
+    "filename": "DPA.md"
+  },
+  {
+    "name": "Software License Agreement",
+    "description": "A standard agreement for licensing software to end users or businesses, covering usage rights, restrictions, support, warranties, and liability.",
+    "filename": "Software-License-Agreement.md"
+  },
+  {
+    "name": "Partnership Agreement",
+    "description": "A standard agreement establishing a commercial partnership between two companies, including roles, revenue sharing, intellectual property, and governance.",
+    "filename": "Partnership-Agreement.md"
+  },
+  {
+    "name": "Pilot Agreement",
+    "description": "A standard agreement for a time-limited pilot or proof-of-concept engagement, allowing a customer to evaluate software or services before committing to a full contract.",
+    "filename": "Pilot-Agreement.md"
+  },
+  {
+    "name": "Business Associate Agreement",
+    "description": "A standard BAA for HIPAA compliance, governing how a business associate may use and safeguard protected health information (PHI) on behalf of a covered entity.",
+    "filename": "BAA.md"
+  },
+  {
+    "name": "AI Addendum",
+    "description": "A standard addendum to be attached to a primary agreement, addressing AI-specific terms such as data use for model training, output ownership, and AI-related liability.",
+    "filename": "AI-Addendum.md"
+  }
+]
