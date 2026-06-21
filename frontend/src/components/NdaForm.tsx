@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { NdaFormData } from "../lib/nda";
+import { NdaFormData } from "../utils/nda";
 
 interface NdaFormProps {
   data: NdaFormData;

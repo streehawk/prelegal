@@ -3,7 +3,7 @@
 import { useState } from "react";
 import NdaForm from "../components/NdaForm";
 import NdaPreview from "../components/NdaPreview";
-import { defaultFormData, NdaFormData } from "../lib/nda";
+import { defaultFormData, NdaFormData } from "../utils/nda";
 
 export default function Home() {
   const [formData, setFormData] = useState<NdaFormData>(defaultFormData);

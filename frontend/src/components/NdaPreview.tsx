@@ -7,7 +7,7 @@ import {
   getMndaTerm,
   getConfidentialityTerm,
   renderStandardTerms,
-} from "../lib/nda";
+} from "../utils/nda";
 
 interface NdaPreviewProps {
   data: NdaFormData;
